@@ -1,0 +1,14 @@
+{
+    "module_id": "viam:tflitecpu",
+    "visibility": "private",
+    "url": "",
+    "description": "",
+    "models": [
+      {
+        "api": "rdk:service:mlmodel",
+        "model": "viam:tflite:tflitecpu"
+      }
+    ],
+    "entrypoint": "module"
+  }
+  
